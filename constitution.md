@@ -169,7 +169,7 @@ tratados y la ley.
 2. Solamente los españoles serán titulares de los derechos reconocidos
 en el artículo 23, salvo lo que, atendiendo a criterios de
 reciprocidad, pueda establecerse por tratado o ley para el derecho de
-sufragio activo en las elecciones municipales.
+sufragio activo y pasivo en las elecciones municipales.
 
 3. La extradición sólo se concederá en cumplimiento de un tratado o de
 la ley, atendiendo al principio de reciprocidad. Quedan excluidos de
